@@ -6,7 +6,7 @@ Website contains:
 - Home
 - About
 - Skills
-- Qualification
+- Projects
 - Services
 - Portfolio
 - Project in mind
